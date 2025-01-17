@@ -3,7 +3,7 @@ GITHUB_USERNAME=$1
 GITHUB_EMAIL=$2
 
 SERVICE_NAME=order
-RELEASE_VERSION=v1.2.3
+RELEASE_VERSION=v1.2.4
 
 echo "Generating Go source code"
 mkdir -p golang
